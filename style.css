@@ -1,0 +1,40 @@
+body {
+  font-size: 20px;
+}
+a {
+  text-decoration-line: line-through;
+  text-decoration-style: dashed;
+  text-decoration-color: blueviolet;
+}
+#a1 {
+  text-decoration-line: overline;
+  text-decoration-color: rgb(35, 80, 80);
+  text-decoration-style: double;
+  text-transform: uppercase;
+}
+#a {
+  text-decoration-line: underline;
+  text-decoration-style: wavy;
+  text-decoration-color: burlywood;
+  text-decoration-thickness: 5px;
+  text-transform: lowercase;
+}
+#a2 {
+  color: black;
+  text-decoration: underline green dashed 2px;
+  text-transform: capitalize;
+}
+#p {
+  text-indent: 50px;
+  letter-spacing: 2px;
+  line-height: 60px;
+  white-space: nowrap;
+  font-family: "Noto Serif Vithkuqi", serif;
+}
+#p1 {
+  text-indent: 50px;
+  line-height: 50px;
+  word-spacing: 5px;
+  text-shadow: -5px 0px 0px rgb(90, 76, 76), 0px 5px 0px rgb(37, 27, 86), 0px 0px 3px rgb(45, 45, 59);
+  font-family: fantasy;
+}
